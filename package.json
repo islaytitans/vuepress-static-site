@@ -1,0 +1,16 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000H\u0000e\u0000l\u0000l\u0000o\u0000 \u0000F\u0000r\u0000o\u0000m\u0000 \u0000J\u0000o\u0000n\u0000s\u0000 \u0000V\u0000u\u0000e\u0000P\u0000r\u0000e\u0000s\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vuepress build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.5.0"
+  }
+}
